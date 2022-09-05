@@ -1,0 +1,11 @@
+
+Sep 05, 2022 12:10:45.57 NEW SESSION
+Sep 05, 2022 12:10:45.57 Opening in existing browser session.
+Sep 05, 2022 12:16:20.97 Opening in existing browser session.
+Sep 05, 2022 12:19:14.97 Opening in existing browser session.
+Sep 05, 2022 12:22:43.97 Opening in existing browser session.
+Sep 05, 2022 12:25:59.78 [5868:5868:0905/122559.785704:ERROR:interface_endpoint_client.cc(665)] Message 1 rejected by interface blink.mojom.WidgetHost
+Sep 05, 2022 12:26:10.89 Fontconfig error: Cannot load default config file: No such file: (null)
+Sep 05, 2022 12:26:13.94 Fontconfig error: Cannot load default config file: No such file: (null)
+Sep 05, 2022 12:32:28.84 [5915:5915:0905/123228.844768:ERROR:connection.cc(46)] X connection error received.
+Sep 05, 2022 12:32:28.85 [5915:5942:0905/123228.844855:ERROR:connection.cc(46)] X connection error received.
