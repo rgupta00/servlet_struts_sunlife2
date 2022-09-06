@@ -1,3 +1,5 @@
 INDEX VERSION 1.131
+/home/raj/Desktop/servlet_struts_sunlife2/servlet/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3674583402.index
+/app3/src
 /home/raj/Desktop/servlet_struts_sunlife2/servlet/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/926822389.index
 /app1/src
