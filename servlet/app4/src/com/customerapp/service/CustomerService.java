@@ -2,7 +2,7 @@ package com.customerapp.service;
 
 import java.util.List;
 
-import com.customerapp.dao.Customer;
+import com.customerapp.dao.customer.Customer;
 
 public interface CustomerService {
 

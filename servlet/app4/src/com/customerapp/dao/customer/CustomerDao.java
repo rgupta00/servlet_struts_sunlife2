@@ -1,4 +1,4 @@
-package com.customerapp.dao;
+package com.customerapp.dao.customer;
 
 import java.util.*;
 

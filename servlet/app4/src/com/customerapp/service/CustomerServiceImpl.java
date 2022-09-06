@@ -2,9 +2,9 @@ package com.customerapp.service;
 
 import java.util.List;
 
-import com.customerapp.dao.Customer;
-import com.customerapp.dao.CustomerDao;
-import com.customerapp.dao.CustomerDaoImpl;
+import com.customerapp.dao.customer.Customer;
+import com.customerapp.dao.customer.CustomerDao;
+import com.customerapp.dao.customer.CustomerDaoImpl;
 import com.customerapp.exccptions.CustomerNotFoundExcepetion;
 
 public class CustomerServiceImpl implements CustomerService{
