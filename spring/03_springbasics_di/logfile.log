@@ -1,0 +1,2 @@
+ERROR | 2022-09-07 14:44:26 | [main] controller.NeedOfLog4j (NeedOfLog4j.java:18) - some ex For input string: "foo123"
+INFO  | 2022-09-07 14:53:36 | [main] service.CustomerServiceImpl (CustomerServiceImpl.java:39) - method take 1001 ms to executed
